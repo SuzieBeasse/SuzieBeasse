@@ -1,5 +1,7 @@
 ## Hi there, I am Suzie 🌻
 
+I'm a junior data scientist, who used to be a flood engineer 🌊
+Always up for a challenge, I love solving puzzles and problems!
 <!--
 **SuzieBeasse/SuzieBeasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
